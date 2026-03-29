@@ -3,7 +3,7 @@
 A modern Tic Tac Toe game built with Python and CustomTkinter featuring an AI opponent and multiple difficulty levels.
 
 ## Screenshot
-![Game Screenshot](Screenshot/game.png)
+<img src="Screenshot/game.png" width="350"/>
 
 ## Features
 - Modern UI using CustomTkinter  
