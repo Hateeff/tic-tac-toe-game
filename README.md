@@ -1,2 +1,23 @@
-# tic-tac-toe-game
-Tic Tac Toe game with AI opponent built using Python and CustomTkinter, featuring multiple difficulty levels and a Minimax-based AI.
+# Tic Tac Toe AI Game
+
+A modern Tic Tac Toe game built with Python and CustomTkinter featuring an AI opponent and multiple difficulty levels.
+
+## Screenshot
+![Game Screenshot](Screenshot/game.png)
+
+## Features
+- Modern UI using CustomTkinter  
+- AI opponent using Minimax algorithm  
+- Easy, Medium, Hard difficulty levels  
+- Win / Lose / Draw detection  
+- Restart option  
+
+## AI System
+The AI uses the Minimax algorithm to evaluate all possible moves and choose the best one.
+
+## How to Run
+```bash
+pip install customtkinter
+python tic_tac_toe.py
+
+> 📌 This project was created for learning purposes to practice GUI development and AI algorithms in Python.
